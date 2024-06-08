@@ -3,9 +3,12 @@
 Overview
 This is Day 30 of my 50-day web development challenge. The project for today is a Professional Photographer Portfolio Website Template. It features a clean, responsive design to showcase photography work, ensuring an optimal viewing experience across all devices. This template is ideal for professional photographers looking to establish an online presence and attract potential clients.
 
-Join Me Here;
-Live Demo: 
+Join Me Here:
+
+Live Demo: https://codelikeamachine.github.io/Day30of50-Professional-Photographer-Portfolio-Website-Template/
+
 LinkedIn: http://www.linkedin.com/in/armaansaraswat
+
 Instagram: https://www.instagram.com/saraswat_armaan
 
 Features:
